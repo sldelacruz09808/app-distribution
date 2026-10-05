@@ -1,3 +1,8 @@
 {
-  "status": "active"
+  "status": "revoked",
+  "enabled": true,
+  "logUrl": "",
+  "codes": {
+    "2966f339691299d2562dd1fe5e2c9d9eec8b60a5596471c0c485fdce756dd7fe": "Bri Dunn"
+  }
 }
